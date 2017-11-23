@@ -1,0 +1,9 @@
+2017-11-23T15:28:05,443: [listener] Watchman 4.7.0 <no build info set> starting up on Anamikas-MacBook-Pro.local
+2017-11-23T15:28:05,443: [listener] failed to parse json from /Mine/learn/RoadRunner/root-state/state: unable to open /Mine/learn/RoadRunner/root-state/state: No such file or directory
+2017-11-23T15:28:05,443: [listener] file limit is 256 kern.maxfilesperproc=524288
+2017-11-23T15:28:05,443: [listener] raised file limit to 524288
+2017-11-23T15:28:05,443: [listener] Using socket from launchd as listening socket
+2017-11-23T15:28:07,048: [client=0x7fd44ee00630:stm=0x7fd44ee00620] path /Mine/learn/RoadRunner is on filesystem type hfs
+2017-11-23T15:28:07,048: [client=0x7fd44ee00630:stm=0x7fd44ee00620] root /Mine/learn/RoadRunner using watcher mechanism fsevents (auto was requested)
+2017-11-23T15:28:07,650: [io /Mine/learn/RoadRunner] PERF: {"ru_nivcsw": 132, "meta": {"root": {"case_sensitive": false, "ticks": 2, "path": "/Mine/learn/RoadRunner", "recrawl_count": 0, "number": 1, "watcher": "fsevents"}}, "start_time": 1511431087.0620711, "pid": 2490, "description": "full-crawl", "ru_msgrcv": 1, "ru_majflt": 0, "ru_msgsnd": 0, "ru_ixrss": 0, "version": "4.7.0", "system_time": 0.30501600000000001, "elapsed_time": 0.58820799999999995, "ru_idrss": 0, "user_time": 0.23497100000000001, "ru_maxrss": 21581824, "ru_inblock": 0, "ru_minflt": 5273, "ru_nswap": 0, "ru_oublock": 0, "ru_nsignals": 0, "ru_nvcsw": 0}
+2017-11-23T15:28:07,650: [io /Mine/learn/RoadRunner] crawl complete
